@@ -177,7 +177,7 @@ function WindowLayout:_init_win_settings(win)
     number = false,
     winfixwidth = true,
     winfixheight = true,
-    wrap = false,
+    wrap = true,
     signcolumn = "auto",
     spell = false,
   }
